@@ -3,7 +3,7 @@ import flet as ft
 
 def main(page: ft.Page):
     # Заголовок приложения.
-    page.title = "Калькулятор"
+    page.title = "Калькулятор Pro Mega Ultra Note 8 Roblox Iphone Giga Сбер Илон Маск Биткоин Чума Эдишн"
 
     # Выравниваем всё по центру.
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
